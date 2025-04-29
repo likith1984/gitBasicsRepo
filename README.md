@@ -1,4 +1,4 @@
----
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,4 +10,4 @@
     <nav>this is navigator page</nav>
 </body>
 </html>
----
+```
